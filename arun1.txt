@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is AEE6-0358
+
+ Directory of C:\Users\arunr\Desktop\My Project
+
+18-06-2020  18:33    <DIR>          .
+18-06-2020  18:33    <DIR>          ..
+18-06-2020  18:33    <DIR>          .git
+18-06-2020  18:33                 0 arun1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  165,661,290,496 bytes free
